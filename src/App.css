@@ -1,0 +1,80 @@
+/* General Layout */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0e0b16;
+  color: #e0d6eb;
+}
+
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header & Inputs */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  color: #cba6f7;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 10px #cba6f7;
+}
+
+.input-area {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  width: 250px;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  background-color: #1e1e2e;
+  color: #e0d6eb;
+}
+
+button {
+  background-color: #cba6f7;
+  color: #0e0b16;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #a87ecb;
+}
+
+/* Dropdown Filter */
+.category-filter {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+select {
+  background-color: #1e1e2e;
+  color: #e0d6eb;
+  padding: 0.4rem;
+  border-radius: 8px;
+  border: 1px solid #444;
+  margin-left: 0.5rem;
+}
+
+/* Recipe Grid */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
