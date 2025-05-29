@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tastyproject/static/css/main.60770751.css",
+    "main.js": "/tastyproject/static/js/main.3a229ecb.js",
+    "static/js/453.ecdaf3e6.chunk.js": "/tastyproject/static/js/453.ecdaf3e6.chunk.js",
+    "index.html": "/tastyproject/index.html",
+    "main.60770751.css.map": "/tastyproject/static/css/main.60770751.css.map",
+    "main.3a229ecb.js.map": "/tastyproject/static/js/main.3a229ecb.js.map",
+    "453.ecdaf3e6.chunk.js.map": "/tastyproject/static/js/453.ecdaf3e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60770751.css",
+    "static/js/main.3a229ecb.js"
+  ]
+}
