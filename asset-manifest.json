@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tastyproject/static/css/main.60e9edb4.css",
-    "main.js": "/tastyproject/static/js/main.43e3ed8a.js",
+    "main.js": "/tastyproject/static/js/main.64fde947.js",
     "static/js/453.ecdaf3e6.chunk.js": "/tastyproject/static/js/453.ecdaf3e6.chunk.js",
     "index.html": "/tastyproject/index.html",
     "main.60e9edb4.css.map": "/tastyproject/static/css/main.60e9edb4.css.map",
-    "main.43e3ed8a.js.map": "/tastyproject/static/js/main.43e3ed8a.js.map",
+    "main.64fde947.js.map": "/tastyproject/static/js/main.64fde947.js.map",
     "453.ecdaf3e6.chunk.js.map": "/tastyproject/static/js/453.ecdaf3e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60e9edb4.css",
-    "static/js/main.43e3ed8a.js"
+    "static/js/main.64fde947.js"
   ]
 }
